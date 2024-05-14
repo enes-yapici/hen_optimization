@@ -16,8 +16,9 @@ The input must necessarily include a value representing either the hot or cold u
 ![image-2](https://github.com/enes-yapici/hen_optimization/assets/125216116/8b7792c7-2e1d-4591-8d21-321bd808592e)
 
 ## Output
-Optimum dT_min value is : 4.0 degree Celsius.
-Total annualized cost corresponding to that dT_min value is : 1.62 M$/year
+The optimum dT_min value is : 4.0 degree Celsius.
+The total annualized cost corresponding to that dT_min value is : 1.62 M$/year
+
 ![image](https://github.com/enes-yapici/hen_optimization/assets/125216116/7527e886-cbff-42c0-b883-8ec49613e2c9)
 
 ## Future Work
